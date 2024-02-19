@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/253.0.0.17.117;FBPN/com.facebook.orca;FBLC/en_US;FBBV/200372525;FBCR/U.S. Cellular;FBMF/samsung;FBBD/samsung;FBDV/SM-N975U;FBSV/10;FBCA/arm64-v8a:null;FBDM/{density=3.5,width=1440,height=2759};FB_FW/1;]
+[FBAN/Orca-Android;FBAV/378.0.0.67.84;FBPN/com.facebook.orca;FBLC/en_US;FBBV/366691894;FBCR/3ITA;FBMF/Xiaomi;FBBD/Xiaomi;FBDV/Redmi Note 10 Lite;FBSV/10;FBCA/x86:armeabi-v7a;FBDM/{density=2.8125,width=1080,height=2208};]
